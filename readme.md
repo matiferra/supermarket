@@ -1,4 +1,4 @@
-# API Supermercado
+# SuperMarket
 
 ## Información General
 
