@@ -1,0 +1,10 @@
+{
+  "hostType": "lan",
+  "lanType": "ip",
+  "dev": true,
+  "minify": false,
+  "urlRandomness": "sw-wp5",
+  "https": false,
+  "scheme": null,
+  "devClient": false
+}
